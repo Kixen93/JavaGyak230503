@@ -33,6 +33,8 @@ public class Gyak230503 {
         System.out.println(i1 == i3);
         System.out.println(i1 == i4.intValue());*/
         
+        
+        //ENUM használaszt
         /*
         Date d = Calendar.getInstance().getTime();
         System.out.println(d);
@@ -48,8 +50,24 @@ public class Gyak230503 {
         else
         n= PartOfDay.NIGHT;
         System.out.println("Napszak: " + n);*/
-        
-        
+        //művelek
+        int a = 5;
+        int b = 3;
+        double c = 3.0;
+        System.out.println("a= " + a);
+        System.out.println("b= " +b);
+        System.out.println("c= " +c);
+        System.out.println("a+b = " +(a+b));
+        System.out.println("a-b = " + (a-b));
+        System.out.println("a*b = " +(a*b));
+        System.out.println("a/b = " +(a/b));
+        System.out.println("(double)a/b = " +((double)a/b));
+        System.out.println("a/c = " +(a/c));
+        System.out.println("a%b = " + (a%b));
+        System.out.println("a++ : " + (a++));
+        System.out.println("a= " + a);
+        System.out.println("++b : " + (++b));
+        System.out.println("b= " +b);
         
     }
     
