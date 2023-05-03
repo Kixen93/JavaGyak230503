@@ -33,7 +33,7 @@ public class Gyak230503 {
         System.out.println(i1 == i3);
         System.out.println(i1 == i4.intValue());*/
         
-        
+        /*
         Date d = Calendar.getInstance().getTime();
         System.out.println(d);
         int hour = d.getHours();
@@ -47,7 +47,7 @@ public class Gyak230503 {
         n= PartOfDay.AFTERNOON;
         else
         n= PartOfDay.NIGHT;
-        System.out.println("Napszak: " + n);
+        System.out.println("Napszak: " + n);*/
         
         
         
